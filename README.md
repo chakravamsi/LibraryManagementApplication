@@ -25,26 +25,4 @@ A **modular Java + MySQL application** for managing library books efficiently. T
 - **IDE:** Eclipse / IntelliJ IDEA  
 
 ---
-LibraryManagement/
-│
-├── src/
-│ ├── model/
-│ │ ├── Book.java
-│ │ └── User.java
-│ │
-│ ├── dao/
-│ │ ├── BookDAO.java
-│ │ └── UserDAO.java
-│ │
-│ ├── service/
-│ │ ├── BookService.java
-│ │ └── UserService.java
-│ │
-│ ├── util/
-│ │ └── DBConnection.java
-│ │
-│ └── main/
-│ └── Main.java
-
-## Project Structure
 
